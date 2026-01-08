@@ -1,0 +1,13 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+venv/
+.env
+
+# Dados Sensíveis (NUNCA enviar para o GitHub)
+*.pdf
+*.csv
+data/*
+!data/.gitkeep
